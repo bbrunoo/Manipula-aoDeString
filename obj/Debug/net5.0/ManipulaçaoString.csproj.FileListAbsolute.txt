@@ -1,0 +1,16 @@
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\bin\Debug\net5.0\ManipulaçaoString.exe
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\bin\Debug\net5.0\ManipulaçaoString.deps.json
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\bin\Debug\net5.0\ManipulaçaoString.runtimeconfig.json
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\bin\Debug\net5.0\ManipulaçaoString.runtimeconfig.dev.json
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\bin\Debug\net5.0\ManipulaçaoString.dll
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\bin\Debug\net5.0\ref\ManipulaçaoString.dll
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\bin\Debug\net5.0\ManipulaçaoString.pdb
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\obj\Debug\net5.0\ManipulaçaoString.csproj.AssemblyReference.cache
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\obj\Debug\net5.0\ManipulaçaoString.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\obj\Debug\net5.0\ManipulaçaoString.AssemblyInfoInputs.cache
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\obj\Debug\net5.0\ManipulaçaoString.AssemblyInfo.cs
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\obj\Debug\net5.0\ManipulaçaoString.csproj.CoreCompileInputs.cache
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\obj\Debug\net5.0\ManipulaçaoString.dll
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\obj\Debug\net5.0\ref\ManipulaçaoString.dll
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\obj\Debug\net5.0\ManipulaçaoString.pdb
+D:\projetos\ams\1ano\manipulaçaoStrings\ManipulaçaoString\obj\Debug\net5.0\ManipulaçaoString.genruntimeconfig.cache
